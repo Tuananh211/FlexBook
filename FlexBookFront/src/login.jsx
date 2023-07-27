@@ -1,7 +1,9 @@
-import React from "react";
+import React, { useState } from "react";
 import "./assets/css/style.css";
 
-const LoginPage = () => {
+const LoginPage = ({onSubmit}) => {
+  const [username,setUsername] = useState("");
+  const [password,setPassword]= useState("");
   return (
     <React.Fragment>
       <div className="bg-gray">
@@ -23,15 +25,22 @@ const LoginPage = () => {
                 type="email"
                 className="form-control my-3"
                 placeholder="Email address or phone number"
+                onChange={(e)=>setUsername(e.target.value)}
               />
               <input
                 type="password"
                 className="form-control my-3"
                 placeholder="Password"
+                onChange={(e)=>setPassword(e.target.value)}
               />
-              <a href="./feed.html">
-                <button className="btn btn-primary w-100 my-3">Log In</button>
-              </a>
+              {/* <a href="./feed.html"> */}
+                <button 
+                 onClick={async () => {
+                  console.log("submit");
+                  onSubmit(username, password);}}
+                  type="submit"
+                className="btn btn-primary w-100 my-3">Log In</button>
+              {/* </a> */}
               <a href="#" className="text-decoration-none text-center">
                 <p>Forgotten password?</p>
               </a>

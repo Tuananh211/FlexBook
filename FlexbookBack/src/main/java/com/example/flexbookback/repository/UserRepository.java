@@ -7,6 +7,6 @@ import org.springframework.data.relational.core.sql.In;
 
 public interface UserRepository extends JpaRepository<User, Integer> {
    public User findUserByUsernameAndPassword(String name,String password);
-   @Query(value = "SELECT * FROM user ORDER BY RAND() LIMIT 1", nativeQuery = true)
+   @Query(value = "SELECT * FROM users ORDER BY RAND() LIMIT 1", nativeQuery = true)
    User findRandomUser();
 }

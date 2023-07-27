@@ -10,9 +10,10 @@ import java.util.List;
 
 @Entity
 @Table(name = "posts")
+@Data
 @NoArgsConstructor
 @AllArgsConstructor
-@Data
+
 public class Posts {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)

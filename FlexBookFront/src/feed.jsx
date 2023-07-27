@@ -259,7 +259,7 @@ const FeedPage = () => {
                     >
                       <div className="p-2">
                         <img
-                          src="https://static.xx.fbcdn.net/rsrc.php/v3/yx/r/N7UOh8REweU.png"
+                         src="https://static.xx.fbcdn.net/rsrc.php/v3/yj/r/Y7r38CcFEw5.png"
                           alt="icon from fb"
                           className="rounded-circle"
                           style={{ width: 48, height: 48, objectFit: "cover" }}
@@ -282,7 +282,7 @@ const FeedPage = () => {
                     >
                       <div className="p-2">
                         <img
-                          src="https://static.xx.fbcdn.net/rsrc.php/v3/yj/r/tSXYIzZlfrS.png"
+                         src="https://static.xx.fbcdn.net/rsrc.php/v3/yj/r/Y7r38CcFEw5.png"
                           alt="icon from fb"
                           className="rounded-circle"
                           style={{ width: 48, height: 48, objectFit: "cover" }}
@@ -305,7 +305,7 @@ const FeedPage = () => {
                     >
                       <div className="p-2">
                         <img
-                          src="https://static.xx.fbcdn.net/rsrc.php/v3/yj/r/Im_0d7HFH4n.png"
+                         src="https://static.xx.fbcdn.net/rsrc.php/v3/yj/r/Y7r38CcFEw5.png"
                           alt="icon from fb"
                           className="rounded-circle"
                           style={{ width: 48, height: 48, objectFit: "cover" }}
@@ -328,7 +328,7 @@ const FeedPage = () => {
                     >
                       <div className="p-2">
                         <img
-                          src="https://static.xx.fbcdn.net/rsrc.php/v3/yo/r/hLkEFzsCyXC.png"
+                         src="https://static.xx.fbcdn.net/rsrc.php/v3/yj/r/Y7r38CcFEw5.png"
                           alt="icon from fb"
                           className="rounded-circle"
                           style={{ width: 48, height: 48, objectFit: "cover" }}
@@ -351,7 +351,7 @@ const FeedPage = () => {
                     >
                       <div className="p-2">
                         <img
-                          src="https://static.xx.fbcdn.net/rsrc.php/v3/yj/r/0gH3vbvr8Ee.png"
+                          src="https://static.xx.fbcdn.net/rsrc.php/v3/yj/r/Y7r38CcFEw5.png"
                           alt="icon from fb"
                           className="rounded-circle"
                           style={{ width: 48, height: 48, objectFit: "cover" }}
@@ -400,7 +400,7 @@ const FeedPage = () => {
                     >
                       <div className="p-2">
                         <img
-                          src="https://static.xx.fbcdn.net/rsrc.php/v3/yx/r/N7UOh8REweU.png"
+                         src="https://static.xx.fbcdn.net/rsrc.php/v3/yj/r/Y7r38CcFEw5.png"
                           alt="icon from fb"
                           className="rounded-circle"
                           style={{ width: 48, height: 48, objectFit: "cover" }}
@@ -423,7 +423,7 @@ const FeedPage = () => {
                     >
                       <div className="p-2">
                         <img
-                          src="https://static.xx.fbcdn.net/rsrc.php/v3/yj/r/tSXYIzZlfrS.png"
+                         src="https://static.xx.fbcdn.net/rsrc.php/v3/yj/r/Y7r38CcFEw5.png"
                           alt="icon from fb"
                           className="rounded-circle"
                           style={{ width: 48, height: 48, objectFit: "cover" }}
@@ -2626,7 +2626,7 @@ const FeedPage = () => {
                   >
                     <div className="p-2">
                       <img
-                        src="https://static.xx.fbcdn.net/rsrc.php/v3/yj/r/tSXYIzZlfrS.png"
+                        src="https://static.xx.fbcdn.net/rsrc.php/v3/yj/r/Y7r38CcFEw5.png"
                         alt="from fb"
                         className="rounded-circle"
                         style={{ width: 38, height: 38, objectFit: "cover" }}
@@ -2645,7 +2645,7 @@ const FeedPage = () => {
                   >
                     <div className="p-2">
                       <img
-                        src="https://static.xx.fbcdn.net/rsrc.php/v3/yj/r/Im_0d7HFH4n.png"
+                       src="https://static.xx.fbcdn.net/rsrc.php/v3/yj/r/Y7r38CcFEw5.png"
                         alt="from fb"
                         className="rounded-circle"
                         style={{ width: 38, height: 38, objectFit: "cover" }}
@@ -2670,7 +2670,7 @@ const FeedPage = () => {
                     <div className="d-flex align-items-center justify-content-evenly">
                       <div className="p-2">
                         <img
-                          src="https://static.xx.fbcdn.net/rsrc.php/v3/yj/r/0gH3vbvr8Ee.png"
+                     src="https://static.xx.fbcdn.net/rsrc.php/v3/yj/r/Y7r38CcFEw5.png"
                           alt="from fb"
                           className="rounded-circle"
                           style={{ width: 38, height: 38, objectFit: "cover" }}
@@ -2691,7 +2691,7 @@ const FeedPage = () => {
                     <div className="d-flex align-items-center justify-content-evenly">
                       <div className="p-2">
                         <img
-                          src="https://static.xx.fbcdn.net/rsrc.php/v3/y4/r/MN44Sm-CTHN.png"
+                         src="https://static.xx.fbcdn.net/rsrc.php/v3/yj/r/Y7r38CcFEw5.png"
                           alt="from fb"
                           className="rounded-circle"
                           style={{ width: 38, height: 38, objectFit: "cover" }}
@@ -2712,7 +2712,7 @@ const FeedPage = () => {
                     <div className="d-flex align-items-center justify-content-evenly">
                       <div className="p-2">
                         <img
-                          src="https://static.xx.fbcdn.net/rsrc.php/v3/y-/r/FhOLTyUFKwf.png"
+                         src="https://static.xx.fbcdn.net/rsrc.php/v3/yj/r/Y7r38CcFEw5.png"
                           alt="from fb"
                           className="rounded-circle"
                           style={{ width: 38, height: 38, objectFit: "cover" }}
@@ -2766,7 +2766,7 @@ const FeedPage = () => {
                           <div className="d-flex align-items-center dropdown-item p-0 m-0">
                             <div className="p-2">
                               <img
-                                src="https://static.xx.fbcdn.net/rsrc.php/v3/yj/r/Y7r38CcFEw5.png"
+                              src="https://static.xx.fbcdn.net/rsrc.php/v3/yj/r/Y7r38CcFEw5.png"
                                 alt="from fb"
                                 className="rounded-circle"
                                 style={{
@@ -2784,7 +2784,7 @@ const FeedPage = () => {
                           <div className="d-flex align-items-center dropdown-item p-0 m-0">
                             <div className="p-2">
                               <img
-                                src="https://static.xx.fbcdn.net/rsrc.php/v3/yx/r/N7UOh8REweU.png"
+                                src="https://static.xx.fbcdn.net/rsrc.php/v3/yj/r/Y7r38CcFEw5.png"
                                 alt="from fb"
                                 className="rounded-circle"
                                 style={{
@@ -2802,7 +2802,7 @@ const FeedPage = () => {
                           <div className="d-flex align-items-center dropdown-item p-0 m-0">
                             <div className="p-2">
                               <img
-                                src="https://static.xx.fbcdn.net/rsrc.php/v3/yo/r/hLkEFzsCyXC.png"
+                               src="https://static.xx.fbcdn.net/rsrc.php/v3/yj/r/Y7r38CcFEw5.png"
                                 alt="from fb"
                                 className="rounded-circle"
                                 style={{

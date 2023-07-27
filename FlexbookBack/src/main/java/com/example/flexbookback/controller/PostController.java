@@ -10,12 +10,13 @@ import org.springframework.web.bind.annotation.RestController;
 import java.util.List;
 
 @RestController
-@RequestMapping("/post")
+@RequestMapping("/posts")
 public class PostController {
     @Autowired
     PostService postService;
-    @GetMapping("/listpost")
+    @GetMapping("/listposts")
     public List<Posts> findAllPost(){
+        System.out.println(postService.getAllPost());
         return  postService.getAllPost();
     }
 }

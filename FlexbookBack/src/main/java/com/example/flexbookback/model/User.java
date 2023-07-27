@@ -40,10 +40,10 @@ public class User {
     @Column(name = "updated_at")
     private Timestamp updated_at;
 
-    @OneToMany(mappedBy = "user")
-    private List<Posts> posts;
-
-    @OneToMany(mappedBy = "user")
-    private List<Comments> comments;
+//    @OneToMany(mappedBy = "user")
+//    private List<Posts> posts;
+//
+//    @OneToMany(mappedBy = "user")
+//    private List<Comments> comments;
 
 }

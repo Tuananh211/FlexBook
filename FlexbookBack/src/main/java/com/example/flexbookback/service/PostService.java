@@ -1,6 +1,5 @@
 package com.example.flexbookback.service;
 
-import com.example.flexbookback.controller.PostController;
 import com.example.flexbookback.model.Posts;
 import com.example.flexbookback.repository.PostRepository;
 import org.springframework.beans.factory.annotation.Autowired;
