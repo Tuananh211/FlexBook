@@ -4,7 +4,7 @@ import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
 import lombok.NoArgsConstructor;
 
-import java.security.Timestamp;
+import java.sql.Timestamp;
 
 @Entity
 @Table(name = "friends")
@@ -13,17 +13,28 @@ import java.security.Timestamp;
 public class Friend {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
-    @Column(name = "like_id")
-    private int like_id;
+    @Column(name = "friend_id")
+    private int friend_id;
 
     @ManyToOne
-    @JoinColumn(name = "user_id")
-    private User user;
+    @JoinColumn(name = "user_id1")
+    private User user1;
 
     @ManyToOne
-    @JoinColumn(name = "post_id")
-    private Posts post;
+    @JoinColumn(name = "user_id2")
+    private User user2;
+
+    @Enumerated(EnumType.STRING)
+    @Column(name = "status")
+    private FriendStatus status;
+
+    @ManyToOne
+    @JoinColumn(name = "action_user_id")
+    private User action_user;
 
     @Column(name = "created_at", nullable = false)
     private Timestamp created_at;
+
+    @Column(name = "updated_at")
+    private Timestamp updated_at;
 }
